@@ -11,8 +11,9 @@ I'm an aspiring DevOps engineer with a passion for cloud computing, Linux admini
 - **Automation:** Docker, Ansible, Jenkins
 - **Cloud:** AWS, Azure
 
+
+
 ## 🚀 Projects
-- **[Automated Pull Request Deployment System](https://github.com/adaorra/hng-team-4-docker-app):** A system using Docker and GitHub Actions to automate deployments.
 - **[Devopsfetch Tool](https://github.com/adaorra/Devopsfetch):** A Bash script to monitor and display system information.
 
 ## 📫 Contact Me
