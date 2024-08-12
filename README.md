@@ -1,16 +1,23 @@
-## Hi there 👋
+## Well, Hellooooo there 👋
 
-<!--
-**adaorra/adaorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  I'm Adaorra! 👋
 
-Here are some ideas to get you started:
+## About Me
+I'm an aspiring DevOps engineer with a passion for cloud computing, Linux administration, and automation. I'm constantly exploring new technologies and working on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Operating Systems:** Linux (Ubuntu, CentOS, Red Hat)
+- **Scripting:** Bash, Python
+- **Automation:** Docker, Ansible, Jenkins
+- **Cloud:** AWS, Azure
+
+## 🚀 Projects
+- **[Automated Pull Request Deployment System](https://github.com/adaorra/your-project-link):** A system using Docker and GitHub Actions to automate deployments.
+- **[Devopsfetch Tool](https://github.com/adaorra/another-project-link):** A Bash script to monitor and display system information.
+
+## 📫 Contact Me
+- **Email:** phanienma@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/adaorra)
+- **GitHub:** [GitHub Profile](https://github.com/adaorra)
+
+
