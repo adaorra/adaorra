@@ -12,12 +12,12 @@ I'm an aspiring DevOps engineer with a passion for cloud computing, Linux admini
 - **Cloud:** AWS, Azure
 
 ## 🚀 Projects
-- **[Automated Pull Request Deployment System](https://github.com/adaorra/your-project-link):** A system using Docker and GitHub Actions to automate deployments.
-- **[Devopsfetch Tool](https://github.com/adaorra/another-project-link):** A Bash script to monitor and display system information.
+- **[Automated Pull Request Deployment System](https://github.com/adaorra/hng-team-4-docker-app):** A system using Docker and GitHub Actions to automate deployments.
+- **[Devopsfetch Tool](https://github.com/adaorra/Devopsfetch):** A Bash script to monitor and display system information.
 
 ## 📫 Contact Me
 - **Email:** phanienma@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/adaorra)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/stephanie-daniel-94a7a6128)
 - **GitHub:** [GitHub Profile](https://github.com/adaorra)
 
 
