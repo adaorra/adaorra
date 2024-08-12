@@ -3,7 +3,7 @@
 #  I'm Adaorra! 👋
 
 ## About Me
-I'm an aspiring DevOps engineer with a passion for cloud computing, Linux administration, and automation. I'm constantly exploring new technologies and working on exciting projects.
+I'm a junior DevOps engineer with a passion for cloud computing, Linux administration, and automation. I'm constantly exploring new technologies and working on exciting projects.
 
 ## 🛠️ Skills
 - **Operating Systems:** Linux (Ubuntu, CentOS, Red Hat)
